@@ -1,1 +1,0 @@
-# MediGenius backend app package
